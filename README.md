@@ -12,9 +12,9 @@ I'm a passionate competitive programmer with a deep interest in data structures 
 
 ## Highlights
 
-- 🏆 Expert (1869 max) at Codeforces
+- 🏆 Expert (1892 max) at Codeforces
 - 🏆 5🌟 (2084 max) Codechef
-- 🏆 Gaurdian (2200+ max) at Leetcode
+- 🏆 Gaurdian (2300+ max) at Leetcode
 - 🧠 Constantly Improving My Algorithmic Skills
 - 🤝 Collaborating on Exciting Open-Source Projects
 - 📝 Sharing Knowledge Through Blog Posts and Tutorials
